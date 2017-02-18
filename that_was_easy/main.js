@@ -3,7 +3,7 @@ function sayThatWasEasy() {
   thatWasEasy.play();
 }
 
-$("#YEEZY").on("click", sayThatWasEasy);
+$("#Yeezy").on("click", sayThatWasEasy);
 
 $(document).keypress(delegateKeypress);
 
